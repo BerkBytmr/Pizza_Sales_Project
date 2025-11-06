@@ -21,7 +21,7 @@ This project analyzes a pizza sales dataset to:
 - top and bottom selling pizzas
 - category & size comparisons
 
-(SQL scripts are available in the /sql folder.)
+(SQL scripts are available in the Kpi and Chart Requirements.sql file.)
 
 ## Multi-Page Report Screenshots
 Screenshots are available in the /screenshots folder.
