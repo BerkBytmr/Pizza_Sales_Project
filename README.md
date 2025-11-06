@@ -32,8 +32,5 @@ Screenshots are available in the /screenshots folder.
 - orders peak at 13:00
 - the best selling pizza by revenue is The Thai Chicken Pizza
 
-## Multi-Page Report Link
-(Add publish-to-web link here if available.)
-
 ## Conclusion
 This project improved my skills in generating business metrics using SQL and visualizing key performance indicators in Power BI.
